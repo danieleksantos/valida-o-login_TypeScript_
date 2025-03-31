@@ -2,7 +2,7 @@
   "name": "desafio04-login",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danieleksantos.github.io/valida-o-login_TypeScript_/",
+  "homepage": "https://danieleksantos.github.io/validacao-login_TypeScript_/",
   "dependencies": {
     "@hookform/resolvers": "^2.9.11",
     "@testing-library/jest-dom": "^5.16.5",
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "yarn build",
-  "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
