@@ -1,8 +1,4 @@
 # Validação de Login - TypeScript
-
-![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-![Badge](https://img.shields.io/badge/License-MIT-green)
-
 Projeto de validação de login utilizando **React** e **TypeScript**, seguindo boas práticas de desenvolvimento e componentização.
 
 ## 🚀 Tecnologias Utilizadas
